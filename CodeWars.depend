@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1573560666 source:d:\users\vidya sagar\desktop\c++ tests\theabsoluteprojectpro\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<fstream>
+	<stdio.h>
+
+1574663573 source:c:\users\admin\desktop\codewars\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<fstream>
+	<stdio.h>
+
